@@ -12,7 +12,7 @@ namespace Tyuiu.KhramovNA.Sprint2.Task0.V8
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title =   "Спринт #2| Выполнил: Храмов Н.А. | АСОиУБ-23-3";
+            Console.Title = "Спринт #2| Выполнил: Храмов Н.А. | АСОиУБ-23-3";
             Console.WriteLine("**************************************************************************************************************");
             Console.WriteLine("* Спринт #2                                                                                                  *");
             Console.WriteLine("* Тема: Операции сравнения                                                                                   *");

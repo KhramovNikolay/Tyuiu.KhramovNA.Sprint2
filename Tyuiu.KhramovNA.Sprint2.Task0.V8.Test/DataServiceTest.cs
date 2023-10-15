@@ -10,7 +10,7 @@ namespace Tyuiu.LoginovMV.Sprint2.Task0.V8.Test
         [TestMethod]
         public void TestMethod1()
         {
-            DataService ds = new DataService();
+            DataService ds = new DataService(); 
             int x = 185;
             int y = 251;
             bool[] res = new bool[6];
